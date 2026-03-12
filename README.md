@@ -30,7 +30,8 @@ Tools:
 	google_search_grounding -> wraps a search agent providing bullet-point grounded results
 	location_search_tool    -> FunctionTool: find_nearby_places_open(query, location, radius, limit)
 
-![System Architecture](ai_travel_planner_architecture.png)
+# ![Uploading ai_travel_planner_architecture.png…]()
+
 
 ### Architecture Overview
 
